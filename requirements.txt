@@ -1,0 +1,8 @@
+streamlit>=1.33
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+plotly>=5.18
+yfinance>=0.2.40        # v1b only (price-dependent metrics)
+anthropic>=0.34         # v3 narrative layer only (optional)
+pytest>=7.0             # tests
